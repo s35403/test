@@ -10,5 +10,6 @@ public class Main {
         Substractor subtractor = new Substractor();
 
         System.out.println(subtractor.substract(6,3));
+
     }
 }
