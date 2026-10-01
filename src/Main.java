@@ -7,8 +7,8 @@ public class Main {
         Adder adder = new Adder();
         System.out.println(adder.add(1, 2));
 
-        Subtractor subtractor = new Subtractor();
+        Substractor subtractor = new Substractor();
 
-        System.out.println(subtractor.subtract(6,3));
+        System.out.println(subtractor.substract(6,3));
     }
 }
